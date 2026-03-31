@@ -1,0 +1,16 @@
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.Properties.Resources.resources
+D:\vs2022_daima_data\260331\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.GenerateResource.cache
