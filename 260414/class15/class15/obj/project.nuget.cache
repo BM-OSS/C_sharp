@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/lb/Q5F3ks=",
+  "success": true,
+  "projectFilePath": "D:\\vs2022_C_sharp_daima_data\\260414\\class15\\class15\\class15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BM\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
