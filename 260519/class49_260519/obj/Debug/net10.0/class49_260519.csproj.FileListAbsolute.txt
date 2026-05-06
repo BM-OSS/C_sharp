@@ -1,0 +1,14 @@
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\bin\Debug\net10.0\class49_260519.exe
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\bin\Debug\net10.0\class49_260519.deps.json
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\bin\Debug\net10.0\class49_260519.runtimeconfig.json
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\bin\Debug\net10.0\class49_260519.dll
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\bin\Debug\net10.0\class49_260519.pdb
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\class49_260519.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\class49_260519.AssemblyInfoInputs.cache
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\class49_260519.AssemblyInfo.cs
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\class49_260519.csproj.CoreCompileInputs.cache
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\class49_260519.dll
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\refint\class49_260519.dll
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\class49_260519.pdb
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\class49_260519.genruntimeconfig.cache
+D:\vs2022_C_sharp_daima_data\260519\class49_260519\obj\Debug\net10.0\ref\class49_260519.dll
