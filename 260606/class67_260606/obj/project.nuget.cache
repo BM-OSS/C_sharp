@@ -1,0 +1,103 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8UeCKPXGVU=",
+  "success": true,
+  "projectFilePath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BM\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\BM\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\runtime.any.system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\BM\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\BM\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\BM\\.nuget\\packages\\system.collections.immutable\\10.0.8\\system.collections.immutable.10.0.8.nupkg.sha512",
+    "C:\\Users\\BM\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "C:\\Users\\BM\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
+    "C:\\Users\\BM\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference runtime.any.System.Collections 将不会删除。请考虑从依赖项中移除此包，因为可能不需要它。",
+      "projectPath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "libraryId": "runtime.any.System.Collections",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Collections.NonGeneric 将不会删除。请考虑从依赖项中移除此包，因为可能不需要它。",
+      "projectPath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "libraryId": "System.Collections.NonGeneric",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Collections.Immutable 将不会删除。请考虑从依赖项中移除此包，因为可能不需要它。",
+      "projectPath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "libraryId": "System.Collections.Immutable",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Collections.Concurrent 将不会删除。请考虑从依赖项中移除此包，因为可能不需要它。",
+      "projectPath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "libraryId": "System.Collections.Concurrent",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.ObjectModel 将不会删除。请考虑从依赖项中移除此包，因为可能不需要它。",
+      "projectPath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "libraryId": "System.ObjectModel",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Collections 将不会删除。请考虑从依赖项中移除此包，因为可能不需要它。",
+      "projectPath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "libraryId": "System.Collections",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Collections.Specialized 将不会删除。请考虑从依赖项中移除此包，因为可能不需要它。",
+      "projectPath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\vs2022_C_sharp_daima_data\\260606\\class67_260606\\class67_260606.csproj",
+      "libraryId": "System.Collections.Specialized",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
