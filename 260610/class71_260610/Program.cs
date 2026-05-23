@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace class71_260611
 {
 
@@ -9,9 +8,6 @@ namespace class71_260611
     //让委托的使用更具有安全性
     //事件 是一种特殊的变量类型
     #endregion
-
-
-
     #region 知识点二 事件的使用
     //申明语法:
     //访问修饰符 event 委托类型 事件名;
@@ -29,18 +25,14 @@ namespace class71_260611
         public Action myFun;
         //事件成员变量 用于存储 函数的
         public event Action myEvent;
-
         public Test()
         {
-
             myFun = TestFun;
             myFun += TestFun;
             myFun -= TestFun;
             myFun();
             myFun.Invoke();
             myFun = null;
-
-
             myEvent = TestFun;
             myEvent += TestFun;
             myEvent -= TestFun;
