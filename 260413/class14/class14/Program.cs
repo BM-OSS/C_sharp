@@ -15,8 +15,6 @@ namespace class14
             //循环语句是让代码可以被重复执行
 
             #endregion
-
-
             #region 知识点二 相关语法
             while (false)//括号里面填写bool相关
             {
