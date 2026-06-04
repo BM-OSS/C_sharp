@@ -19,7 +19,6 @@ namespace class9
             //条件运算符的运算结果是一个bool类型的值
             //结果为真时返回true 结果为假时返回为flase
 
-
             #endregion
 
             #region 知识点二 各种写法
