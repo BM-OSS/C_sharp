@@ -1,5 +1,4 @@
 ﻿using System.Buffers;
-
 namespace class20
 {
     internal class Program
