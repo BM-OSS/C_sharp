@@ -1,7 +1,6 @@
 ﻿using System;
 namespace class71_260611
 {
-
     #region 知识点一 事件是什么
     //事件是基于委托的存在
     //事件是委托的安全包裹
