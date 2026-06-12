@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
-
 namespace class16
 {
     class Program
