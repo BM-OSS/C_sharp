@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections;
-
 namespace class60_260530
 {
     #region 练习题二
