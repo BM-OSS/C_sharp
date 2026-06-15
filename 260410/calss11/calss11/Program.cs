@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace calss10
 {
     class Program
