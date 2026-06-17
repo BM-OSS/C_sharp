@@ -13,7 +13,6 @@ namespace class6
             //int i = int.Parse(str);
             //当输入不合法时这个就会出现报错卡死
             #endregion
-
             #region 基本语法
             //必备部分
             try
