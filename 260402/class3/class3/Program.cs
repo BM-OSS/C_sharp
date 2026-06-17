@@ -5,7 +5,6 @@ namespace class3
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             #region 知识点一 变量的存储空间（内存中）
