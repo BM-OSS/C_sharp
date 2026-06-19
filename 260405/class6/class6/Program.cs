@@ -51,7 +51,6 @@ namespace class6
                 Console.WriteLine("请输入合法的数值");
             }
             #endregion
-
             #region 练习题一
             //请用户输入一个数字
             //如果输入有误，则提示用户输入有误
@@ -66,10 +65,7 @@ namespace class6
                 Console.WriteLine("\a输入错误，请输入合法的数字");
 
             }
-
-
             #endregion
-
             #region 练习题二
             //提示用户输入姓名 语文 数学 英语成绩
             //如果输入的成绩有无，则提示用户输入错误
