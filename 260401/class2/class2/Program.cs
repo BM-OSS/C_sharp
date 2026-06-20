@@ -52,28 +52,20 @@ namespace class2
             //long:-9百万兆~9百万兆之间
             long l= 9000000000000000000;
             Console.WriteLine(l);
-
-
             //2.无符号的整形变量
             //只能存储0和正数的变量类型
-
             //byte:0~255
             byte b = 255;
             Console.WriteLine(b);
-
             //ushort:0~65535
             ushort us = 65535;
             Console.WriteLine(us);
-
             //uint:0~42亿多
             uint ui = 4200000000;
             Console.WriteLine(ui);
-
             //ulong:0~18百万兆之间
             ulong ul = 18000000000000000000;
             Console.WriteLine(ul);
-
-
             //3.浮点数（小数）
             //float:存放7/8位有效数字（根据编译器不同有效位数不一样）
             //超出的位数会四舍五入
