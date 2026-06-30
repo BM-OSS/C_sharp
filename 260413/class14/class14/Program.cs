@@ -12,7 +12,6 @@ namespace class14
             //可以不停的循环执行某一行代码快的内容
             //条件分支语句是让代码产生分支
             //循环语句是让代码可以被重复执行
-
             #endregion
             #region 知识点二 相关语法
             while (false)//括号里面填写bool相关
